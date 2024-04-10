@@ -1,0 +1,1 @@
+/Users/kevinsheeran/Developer/rustProjects/cargo_exercise/chapter01/user_lazy_static/target/debug/user_lazy_static: /Users/kevinsheeran/Developer/rustProjects/cargo_exercise/chapter01/user_lazy_static/src/main.rs

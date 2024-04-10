@@ -1,0 +1,1 @@
+/Users/kevinsheeran/Developer/RustProjects/cargo_exercise/modules-exercise/restaurant/target/debug/restaurant: /Users/kevinsheeran/Developer/RustProjects/cargo_exercise/modules-exercise/restaurant/src/lib.rs /Users/kevinsheeran/Developer/RustProjects/cargo_exercise/modules-exercise/restaurant/src/main.rs
